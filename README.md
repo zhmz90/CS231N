@@ -1,6 +1,6 @@
 # CS231N
 
-A deep learning library based on cs231n.
+Code and note about CS231n, a stanford course.
 
 ### examples
 
